@@ -1,11 +1,12 @@
-# UTS Rekayasa Perangkat Lunak Lanjut (ADSE)
+# UTS Rekayasa Perangkat Lunak Lanjut
 **Otomatisasi Alur Kerja Pemodelan BPMN Menggunakan Camunda BPM Engine dan Spring Boot Framework**
 
 ---
 
 ##  Identitas Mahasiswa
-* **Nama** : Shofwatunnisa
-* **NIM** : 11210910000121
+* **1** Shofwatunnisa_121
+* **2** Siti Dibaj Tri Kusuma_117
+* **3** Rusmin Nuryadin_120
 * **Program Studi** : Teknik Informatika
 * **Mata Kuliah** : Rekayasa Perangkat Lunak Lanjut (ADSE)
 * **Dosen Pengampu** : Rizal Broer Bahaweres, S.T., M.Kom.
